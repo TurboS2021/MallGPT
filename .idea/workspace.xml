@@ -5,6 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22dec5c7-f7a7-4a86-bea3-313915332c1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.coupon/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.member/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.order/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.product/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.brabus.mallgpt.ware/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -12,6 +73,23 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/mallgpt-prodcut">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +116,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "zulu-1.8",
+    "last_opened_file_path": "/Users/chrisliu/IdeaProjects/MallGPT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -54,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677918579208</updated>
-      <workItem from="1677918580262" duration="1878000" />
+      <workItem from="1677918580262" duration="3234000" />
+      <workItem from="1677921912051" duration="1535000" />
     </task>
     <servers />
   </component>
